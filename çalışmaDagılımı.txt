@@ -1,0 +1,9 @@
+1-Proje Belirlenmesi
+2-Proje ile Ýlgili Dokumantasyon Aranmasý
+3-Proje Taslaðýnýn Çýkarýlmasý
+4-Proje Baþlangýcý
+5-Kodlama
+6-Test-Hata Ayýklama
+7-Bakým-Gerekli Yerleri Güncelleme
+8-Rapor Hazýrlanmasý
+9-Sunum
